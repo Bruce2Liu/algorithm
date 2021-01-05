@@ -1,4 +1,4 @@
-package com.example.algorithm.basicjava;
+package com.example.algorithm.java.basicjava;
 
 /**
  * 递归案例

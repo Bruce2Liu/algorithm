@@ -1,6 +1,6 @@
 package com.example.algorithm.api;
 
-import com.example.algorithm.Constant.PathConstant;
+import com.example.algorithm.constant.PathConstant;
 
 import java.io.*;
 import java.util.zip.ZipEntry;

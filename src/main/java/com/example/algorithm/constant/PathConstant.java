@@ -1,4 +1,4 @@
-package com.example.algorithm.Constant;
+package com.example.algorithm.constant;
 
 /**
  * @author liujunhui
