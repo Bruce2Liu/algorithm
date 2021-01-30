@@ -1,4 +1,4 @@
-package com.example.algorithm.advancedjava;
+package com.example.algorithm.java.advancedjava;
 
 /**
  * @author liujunhui

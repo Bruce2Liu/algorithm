@@ -5,4 +5,6 @@ package com.example.algorithm.Leetcode;
  * @date 2020/12/16 14:18
  */
 public class LeetCode {
+
+
 }
